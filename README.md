@@ -52,7 +52,7 @@ streamlit run app.py
 ## 📂 Project Structure
 
 * `job_scraper.py` → Fetch jobs
-* `generator.py` → Resume parsing & skill extraction
+* `Resume_reader.py` → Resume parsing & skill extraction
 * `matcher.py` → Matching logic
 * `app.py` → Streamlit UI
 
